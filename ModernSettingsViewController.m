@@ -1574,7 +1574,7 @@ static UIFont *TwitterChirpFont(TwitterFontStyle style) {
         @{ @"key": @"dm_avatars", @"titleKey": @"DM_AVATARS_TITLE", @"subtitleKey": @"DM_AVATARS_DETAIL_TITLE", @"default": @NO, @"type": @"toggle" },
         @{ @"key": @"dm_compose_bar_v2_enabled", @"titleKey": @"DM_COMPOSE_BAR_V2_TITLE", @"subtitleKey": @"DM_COMPOSE_BAR_V2_DETAIL_TITLE", @"default": @NO, @"type": @"toggle" },
         @{ @"key": @"dm_voice_creation_enabled", @"titleKey": @"DM_VOICE_CREATION_TITLE", @"subtitleKey": @"DM_VOICE_CREATION_DETAIL_TITLE", @"default": @NO, @"type": @"toggle" },
-        @{ @"key": @"disable_xchat", @"titleKey": @"DISABLE_XCHAT_OPTION_TITLE", @"subtitleKey": @"DISABLE_XCHAT_OPTION_DETAIL_TITLE", @"default": @YES, @"type": @"toggle" },
+        //@{ @"key": @"disable_xchat", @"titleKey": @"DISABLE_XCHAT_OPTION_TITLE", @"subtitleKey": @"DISABLE_XCHAT_OPTION_DETAIL_TITLE", @"default": @YES, @"type": @"toggle" },
         @{ @"titleKey": @"CUSTOM_DIRECT_BACKGROUND_VIEW_TITLE", @"subtitleKey": @"CUSTOM_DIRECT_BACKGROUND_VIEW_DETAIL_TITLE", @"action": @"showCustomBackgroundOptions:", @"type": @"button" }
     ];
 }
