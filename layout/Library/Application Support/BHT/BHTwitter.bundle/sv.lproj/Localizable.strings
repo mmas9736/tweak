@@ -334,6 +334,16 @@
 /*Refresh pill text*/
 "REFRESH_PILL_TEXT" = "Tweetade";
 
+"NOTIF_REPLACE_POST_WITH_TWEET_OPTION_TITLE" = "Ändra 'Inlägg' till 'Tweet' i notifikationer";
+"NOTIF_REPLACE_POST_WITH_TWEET_DETAIL_TITLE" = "Ersätter 'Inlägg' med 'Tweet' i notifikationspanelen. Detta påverkar *all* text i notifikationer, så om en Tweet innehåller ordet 'inlägg', kommer det också att ersättas.";
+
+"COLOR_TWITTER_ICON_OPTION_TITLE" = "Färga Twitter-ikonen";
+"COLOR_TWITTER_ICON_DETAIL_TITLE" = "Tillämpa accentfärgen på Twitter-ikonen i den övre menyn.";
+
+"REFRESH_PILL_OPTION_TITLE" = "Lägg till 'Tweetade' i uppdateringspillen";
+"REFRESH_PILL_DETAIL_TITLE" = "Lägger tillbaka etiketten 'Tweetade' i uppdateringspillen när någon Tweetar. Detta kan (felaktigt) visas i vissa andra områden också.";
+
+
 /*Deprecated*/
 "TRUSTED_FRIENSS_OPTION_TITLE" = "Twitter-cirklar";
 
@@ -357,7 +367,7 @@
 "MODERN_SETTINGS_LAYOUT_TITLE" = "Allmänt";
 "MODERN_SETTINGS_LAYOUT_SUBTITLE" = "Anpassa flödet med egna typsnitt, färger för navigering och mer.";
 
-"MODERN_SETTINGS_MEDIA_TITLE" = "Media";
+"MODERN_SETTINGS_MEDIA_TITLE" = "Foton och videor";
 "MODERN_SETTINGS_MEDIA_SUBTITLE" = "Ladda ner videor, aktivera tidsstämplar med mera.";
 
 "MODERN_SETTINGS_TWITTER_BLUE_TITLE" = "Twitter Blue";
@@ -371,6 +381,9 @@
 
 "MODERN_SETTINGS_MESSAGES_TITLE" = "Meddelanden";
 "MODERN_SETTINGS_MESSAGES_SUBTITLE" = "Anpassa din meddelandeupplevelse på Twitter.";
+
+"MODERN_SETTINGS_BRANDING_TITLE" = "Profilering";
+"MODERN_SETTINGS_BRANDING_SUBTITLE" = "Justera hur mycket av Twitter-profileringen du ser.";
 
 "MODERN_SETTINGS_EXPERIMENTAL_TITLE" = "Labbar";
 "MODERN_SETTINGS_EXPERIMENTAL_SUBTITLE" = "Testa instabila funktioner.";
@@ -389,7 +402,6 @@
 "CUSTOM_TAB_BAR_PROFILE" = "Profil";
 "HIDE_BLUE_VERIFIED_OPTION_TITLE" = "Dölj Blue-verifieringsbockar";
 "HIDE_BLUE_VERIFIED_OPTION_DETAIL_TITLE" = "Dölj betald verifieringsbock på Tweets. Detta omfattar inte varumärkes- eller myndighetskonton.";
-
 
 "SOURCE_UNAVAILABLE" = "Källa otillgänglig";
 
