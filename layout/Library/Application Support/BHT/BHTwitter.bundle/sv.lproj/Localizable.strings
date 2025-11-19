@@ -383,6 +383,15 @@
 "MODERN_SETTINGS_MESSAGES_TITLE" = "Meddelanden";
 "MODERN_SETTINGS_MESSAGES_SUBTITLE" = "Anpassa din meddelandeupplevelse på Twitter.";
 
+"MODERN_SETTINGS_SEARCH_TITLE" = "Sök och utforska";
+"MODERN_SETTINGS_SEARCH_SUBTITLE" = "Justera vad du ser på sökmenyn.";
+
+"MODERN_SETTINGS_PRESETS_TITLE" = "Förinställningar";
+"MODERN_SETTINGS_PRESETS_SUBTITLE" = "Ställ in en förinställning, eller exportera och importera dina egna.";
+
+"MODERN_SETTINGS_WEB_TITLE" = "Webbläsare och länkar";
+"MODERN_SETTINGS_WEB_SUBTITLE" = "Justera hur länkar öppnas och Twitters webbläsare fungerar.";
+
 "MODERN_SETTINGS_BRANDING_TITLE" = "Profilering";
 "MODERN_SETTINGS_BRANDING_SUBTITLE" = "Justera hur mycket av Twitter-profileringen du ser.";
 
@@ -397,6 +406,7 @@
 "FOLLOW_OFFICIAL_PAGE_SECTION_HEADER_TITLE" = "Följ NeoFreeBird";
 
 "MODERN_SETTINGS_PLACEHOLDER_TEXT" = "Här var det tomt.";
+"MODERN_SETTINGS_PLACEHOLDER_DETAIL_TEXT" = "Det finns inga inställningar i den här kategorin ännu. Håll utkik efter framtida uppdateringar för NeoFreeBird!";
 
 "NEW_INAPP_WEB_OPTION_TITLE" = "Förbättrad webbläsare i appen (beta)";
 "NEW_INAPP_WEB_DETAIL_TITLE" = "Använd Twitters nya webbläsare i appen för att öppna länkar.";
